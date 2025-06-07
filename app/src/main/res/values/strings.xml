@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My CMIND Assessment</string>
+    <string name="hint_input_text">Enter your text:</string>
+    <string name="text_clear">Clear</string>
+    <string name="text_reverse">Reverse it</string>
+    <string name="text_hello_content">Hello %s</string>
+    <string name="error_special_char_detection">Special characters detected!</string>
+</resources>
